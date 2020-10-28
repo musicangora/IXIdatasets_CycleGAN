@@ -1,0 +1,2 @@
+# IXIdatasets_CycleGAN
+h5ファイルで保存されたIXIDatasetを使ってCycleGANを実行
